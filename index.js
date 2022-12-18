@@ -1,7 +1,7 @@
 import { WebSocketServer } from "ws"
 import express from "express"
 //enter stuff in terminal to access database
-// import commandar from "commander"
+import commandar from "commander"
 import chalk from "chalk"
 
 const app = express()
